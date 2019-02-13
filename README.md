@@ -3,7 +3,7 @@ Hi guys what app
 
 ## Welcome to
 
-'''java
+```java
 if(true){
 
   print(x);
